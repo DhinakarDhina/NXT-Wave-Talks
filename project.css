@@ -1,0 +1,321 @@
+.main-heading{
+    background-color:#132639;
+    height: 100vh;
+    padding-left: 110px;
+    margin: 0px;
+}
+.heading-span{
+    color: #66ff33;
+    font-family:"Robato";
+}
+.heading{
+    color: white;
+    font-weight: bold;
+    font-family: "Robato";
+    font-size: 55px;
+    margin-top:20px ;
+    margin-bottom: 20px;
+
+}
+.heading-5{
+    color: white;
+    font-weight: bold;
+    font-family: "Robato";
+    font-size: 55px;
+    
+    margin-bottom: 20px;
+
+}
+
+.sub-head{
+    
+    margin-left: 50px;
+    color: white;
+    font-size: 25px;
+}
+.button{
+    background-color: #008ae6;
+    color: white;
+    padding: 10px;
+    width: 400px;
+    text-align: center;
+    border-width: 0px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.button1{
+    background-color:transparent;
+    color: white;
+    padding: 10px;
+    width: 400px;
+    text-align: center;
+    border-width: 0px;
+    border-radius: 10px;
+    border-width: 3px;
+    border-color: white;
+}
+.para{
+    color: white;
+    font-size: 25px;
+}
+.heading2{
+    color: white;
+    font-weight: bold;
+    font-family: "Robato";
+    font-size: 55px;
+    text-align: center;
+    margin: 0px;
+    padding: 100px;
+}
+.card-container{
+    background-color: #0a1429    ;
+    height: 90vh;
+    margin: 0px;
+    
+}
+.image{
+    height: 80px;
+    width: 170px;
+    margin: 32px;
+    background-size: cover;
+}
+.image2{
+    height: 50px;
+    width: 130px;
+    padding: 20px;
+    margin: 32px;
+    background-size: cover;
+}
+.card-head{
+    background-color: #132639;
+    margin: 0px;
+}
+.card-para{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    padding-bottom: 30px;
+
+}
+.heading3{
+    color: white;
+    font-weight: bold;
+    font-family: "Robato";
+    font-size: 55px;
+    text-align: center;
+    margin: 0px;
+    padding: 100px;
+    padding-bottom: 20px;
+}
+.card-button{
+    color: white;
+    background-color: transparent;
+    border-color: white;
+    border-width: 1px;
+    margin: 20px;
+    padding: 9px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+
+}
+.button-margin{
+    padding-left: 180px;
+}
+.image-card{
+    height: 150px;
+    width: 350px;
+    margin: 0px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-size: cover;
+}
+.background-card{
+    background-color: #1f4060    ;
+    width: 350px;
+    border-radius: 20px;
+    margin-left: 50px;
+    
+}
+.card-heading{
+    color: white;
+    margin-left: 10px;
+    font-size: 30px;
+    font-family: "Sans-serif	";
+    margin: 15px;
+    padding: 7px;
+
+}
+.card-para2{
+    color: #bfbfbf;
+    font-size: 20px;
+    margin-left: 10px;
+    margin: 15px;
+    padding: 7px;
+}
+.card-heading2{
+    color: white;
+    padding: 10px;
+   font-weight: bold;
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: "Sans-serif	";
+    margin: 15px;
+    padding: 7px;
+    
+
+}
+.card-para3{
+    color: #007acc;
+    margin-left: 10px;
+    padding: 7px;
+    font-size: 20px;
+}
+.background-cont{
+    color: #f79036;
+    border-radius: 10px;
+    border-color: #f79036;
+    font-size: 20px;
+    padding: 10px;
+    border-width: 10px;
+    background-color: transparent;
+    
+    
+}
+.carousel-bg{
+    background-color: #004466;
+    width: 400px;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+}
+.carousel_head{
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 10px;
+}
+.carousel-para{
+    color: white;
+    font-size: 17px;
+    padding-left: 10px;
+}
+.carousel-image{
+    height: 70px;
+    width: 70px;
+    border-radius: 70px;
+   padding-top: 5px;
+   padding-left: 5px;
+}
+
+.head{
+    color: white;
+    font-size: 55px;
+    font-weight: bold;
+    font-family: "Robato";
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.carousel-para2{
+    color: white;
+    font-size: 30px;
+    font-family: "Robato";
+    padding-left: 10px;
+    padding-bottom: 30px;
+}
+.card-container2{
+    background-color: #0a1429    ;
+    height: 90vhx;
+    margin: 0px;
+    padding-bottom: 30px;
+    
+}
+.head2{
+    color: white;
+    font-size: 55px;
+    font-weight: bold;
+    font-family: "Robato";
+    padding-top: 150px;
+    padding-bottom: 60px;
+    padding-left: 60px;
+}
+.card-container3{
+    background-color: #0a1429    ;
+    
+    margin: 0px;
+    padding-bottom: 30px;
+    
+}
+.card-button2{
+    background-color: #d1d1e0;
+    width: 400px;
+    border-radius: 5px;
+    padding: 7px;
+    margin-bottom: 20px;
+}
+.card-button3{
+    color: white;
+    font-size: 20px;
+    font-family: "robato";
+
+
+}
+.flex-container{
+    padding-left: 250px;
+    padding-top: 120px;
+}
+.main-heading2{
+    background-color:#132639;
+    padding-left: 110px;
+    margin: 0px;
+    height: 150px;
+    padding-top: 50px;
+}
+.image-card2{
+    height:80px;
+    width: 140px;
+    margin: 40px;
+}
+
+.h6-small-2{
+    color:#9fbfdf;
+
+}
+.div-block-1910 {
+    background-color: #1e293b;
+    border-radius: 2px;
+    height: 2px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.flex-image{
+    height: 170px;
+    width: 320px;
+    padding-left: 40px;
+}
+.background{
+    background-color: #1f4060;
+    color: white;
+    margin: 0px;
+    width: 280px;
+    margin-left: 40px;
+    padding: 30px;
+    border-bottom-left-radius:20px ;
+    border-bottom-right-radius:20px ;
+    
+}
+.background2{
+    background-color: #1f4060;
+    color: white;
+    margin: 0px;
+    width: 280px;
+    margin-left: 40px;
+    padding: 30px;
+    border-bottom-left-radius:20px ;
+    border-bottom-right-radius:20px ;
+ height: 320px;   
+}
+.green{
+    color: green;
+    font-weight: bold;
+}
